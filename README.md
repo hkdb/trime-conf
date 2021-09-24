@@ -1,6 +1,8 @@
 # TRIME Config
 maintained by @hkdb
 
+![ss](ss.png)
+
 ## SUMMARY
 
 Custom config files for TRIME on Android to make the keyboard bigger and more aligned with the AOSP defaults.
@@ -20,4 +22,5 @@ cd /sdcard/rime
 
 ## CHANGE
 
+- 09232021 - Added screenshot
 - 09232021 - Initial commit
